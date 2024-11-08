@@ -70,7 +70,7 @@
     "@jupyterlab/observables": "5.0.11",
     "@jupyterlab/outputarea": "4.0.11",
     "@jupyterlab/rendermime": "4.0.11",
-    "@jupyterlab/services": "7.0.11",
+    "@jupyterlab/services": "7.2.5",
     "@jupyterlab/settingregistry": "4.0.11",
     "@jupyterlab/statusbar": "4.0.11",
     "@jupyterlab/terminal": "4.0.11",
