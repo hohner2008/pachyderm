@@ -1,4 +1,4 @@
-FROM python:3.7 as mkdocs
+FROM python:3.13.0rc2 as mkdocs
 RUN apt-get clean && apt-get update 
 
 WORKDIR /usr/src/app/doc
