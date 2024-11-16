@@ -1,4 +1,4 @@
-FROM python:3.8-slim
+FROM python:3.14.0a1-slim
 
 RUN apt-get update -y && apt-get install git -y
 RUN python3 -m pip install 'black==24.1.1' 'grpcio-tools==1.51.3'
