@@ -11,7 +11,7 @@ COPY source/go.sum .
 RUN go mod download && go build -o /build/app
 
 # Build final image
-FROM alpine:3.12 as runner
+FROM alpine:3.21.2 as runner
 
 COPY --from=builder /build/app /bin/app
 
