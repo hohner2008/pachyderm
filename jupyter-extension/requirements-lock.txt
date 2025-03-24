@@ -137,7 +137,7 @@ grpc-interceptor==0.14.2 \
     --hash=sha256:6690e35da97eba0333b39e77b7cc41868ab0f4f50593daab8c59dd5fec0b543c \
     --hash=sha256:d306c156d3f3783ca103c6e2d1e75a84971eecd67658e72961dda3afba09fb8f
     # via pachyderm-sdk
-grpcio==1.62.1 \
+grpcio==1.62.3 \
     --hash=sha256:12859468e8918d3bd243d213cd6fd6ab07208195dc140763c00dfe901ce1e1b4 \
     --hash=sha256:1714e7bc935780bc3de1b3fcbc7674209adf5208ff825799d579ffd6cd0bd505 \
     --hash=sha256:179bee6f5ed7b5f618844f760b6acf7e910988de77a4f75b95bbfaa8106f3c1e \
